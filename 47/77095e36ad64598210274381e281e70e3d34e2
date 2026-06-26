@@ -1,0 +1,27 @@
+src/lib/mcp_client.ts
+  s_c0c6167b8ca644::t_2f8044104f6ccd 88-91
+package.json
+  s_c0c6167b8ca644::t_9cf39266b38809 37,39,42-43
+  s_c0c6167b8ca644::t_fd620befccf1f1 44
+src/lib/ai_infra.ts
+  s_c0c6167b8ca644::t_3f810d9e2c2831 8-13,20,24,28,58,65,74-75,85-86
+  s_c0c6167b8ca644::t_aa31cc6e865852 50,53
+package-lock.json
+  s_c0c6167b8ca644::t_345a8d74f93771 27-29,31,33,38-40,42,44-46,49,56-58,62-64,67,74-76,78,83,87-89,91,93,95-96,99,1689-1690,2155-2156,2485-2487,2489,2494-2500,2525-2527,2531-2533,2536,2989,3549-3551,3553,4111,4194-4195,5638
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "4777095e36ad64598210274381e281e70e3d34e2",
+  "prompts": {},
+  "sessions": {
+    "s_c0c6167b8ca644": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "89dd9d6e-ef15-4380-8c69-21469cb9851c",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "Nathan Standiford <nathan@ditto.ai>"
+    }
+  }
+}
